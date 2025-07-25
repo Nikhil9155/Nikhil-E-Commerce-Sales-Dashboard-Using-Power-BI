@@ -33,7 +33,7 @@ This dashboard helps analyze key business metrics and patterns, empowering stake
 ## **🎦Preview of the Project : **
 https://github.com/Nikhil9155/Nikhil-E-Commerce-Sales-Dashboard-Using-Power-BI/blob/main/Snapshot%20of%20Dashboard.png
 
-## **🔗 Connect with Me:**
+## 🔗 Connect with Me:
 
 LinkedIn : https://www.linkedin.com/in/nikhil9155/
 Email : nikhilkumar081102@gmail.com
