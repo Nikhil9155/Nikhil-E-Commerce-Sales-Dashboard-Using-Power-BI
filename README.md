@@ -14,10 +14,10 @@ This dashboard helps analyze key business metrics and patterns, empowering stake
 
 ## **⚙️ Tools Used :** 
 
-• Power BI
-• DAX (for custom calculations)
-• Data Modeling
-• Data Cleaning & Transformation
+- Power BI
+- DAX (for custom calculations)
+- Data Modeling
+- Data Cleaning & Transformation
 
 ## **📌 Goal :**
 • To demonstrate my ability to turn raw e-commerce data into a polished, insightful dashboard as part of my data analytics portfolio.
@@ -30,10 +30,10 @@ This dashboard helps analyze key business metrics and patterns, empowering stake
   
 - 💡 Quick learner, tech enthusiast, and driven to solve real-world problems through data and technology.
 
-## **🎦Preview of the Project : **
+## **🎦 Preview of the Project :** 
 https://github.com/Nikhil9155/Nikhil-E-Commerce-Sales-Dashboard-Using-Power-BI/blob/main/Snapshot%20of%20Dashboard.png
 
-## 🔗 Connect with Me:
+## **🔗 Connect with Me:**
 
 LinkedIn : https://www.linkedin.com/in/nikhil9155/
 Email : nikhilkumar081102@gmail.com
